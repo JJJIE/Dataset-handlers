@@ -5,7 +5,7 @@ from math import ceil
 from itertools import product
 from random import shuffle
 
-src_folder = '/path/to/celebA'
+src_folder = '/media/user/2634e654-9e1a-49b2-a9d8-fb746a23d9fd/img_align_celeba'
 train_ratio = 0.8
 images_per_folder = 3000
 
